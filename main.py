@@ -27,7 +27,7 @@ def needs_wants(diff, sav):
     print("\n\nPlease enter the list of your wants acoording to your priority")
     print("\n Don't forget to provide the price and priority value ")
 
-    size = int(input("\n\n Enter the number of wants you have = "))
+    size = int(input("\n\n Enter the number of wants you have : "))
 
     for i in range(1, size+1):
         print("Enter the wants:\n")
